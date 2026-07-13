@@ -1,4 +1,4 @@
-# Weld Defect Classification
+# AI-Weld-Defect-Classifier
 
 ## Overview
 This project is a deep learning-based system for classifying weld defects using convolutional neural networks (CNNs). The system processes weld images and predicts whether a weld is good or defective, categorizing defects into six different classes.
