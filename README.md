@@ -81,6 +81,31 @@ Below is a sample output from the web application:
 
 ![Sample Output](images/Screenshot2025-03-16020920.png)
 
+# 👥 Project Contributions
+
+This project was developed collaboratively by **Preksha Dewoolkar** and **Chirag Patankar**.
+
+## 👩‍💻 Preksha Dewoolkar
+
+- Developed significant portions of the Streamlit frontend.
+- Implemented backend workflows for image classification.
+- Contributed to CNN integration and prediction pipeline.
+- Improved user experience, visualization, debugging, and testing.
+- Assisted with model evaluation and project architecture.
+
+---
+
+## 👨‍💻 Chirag Patankar
+
+- Contributed to CNN model development and training.
+- Worked on image preprocessing and dataset preparation.
+- Assisted with backend logic, evaluation scripts, and optimization.
+- Collaborated on overall project integration and testing.
+
+> **This was a collaborative project where both contributors participated across frontend, backend, and deep learning development, with responsibilities overlapping throughout implementation.**
+
+---
+
 ## Future Enhancements
 - Improve accuracy by fine-tuning the model.
 - Extend dataset with more labeled weld images.
